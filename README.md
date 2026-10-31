@@ -1,2 +1,3 @@
-# tide-updates
-Tide update feed (Sparkle appcast) and DMG releases
+# Tide updates
+
+Sparkle appcast and DMG releases for Tide.
