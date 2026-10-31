@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Tide</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sat, 31 Oct 2026 20:08:53 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tide 1.0.0</h2>
+<ul>
+<li>First public release.</li>
+<li>A native macOS terminal with command blocks: every command and its output is a block you can search, copy and collapse.</li>
+<li>Split panes, tabs you can rename, reorder and group, and a command palette.</li>
+<li>Tools panel with a file explorer, global search, a built-in editor and a git review pane.</li>
+<li>Hover previews and Quick Look for files, images and links in the output.</li>
+<li>Automatic updates with Sparkle (no data about your Mac is sent).</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.0.0/Tide-1.0.0.dmg" length="15233944" type="application/octet-stream" sparkle:edSignature="/4OFeZ2fvDsW+Pe251SnIrL06i6WBXOe6lt+uX1u/qM/aRxexHUN3F2aofIB+3MmvrSOuwOsjlxVClp3+QQgDg=="/>
+        </item>
+    </channel>
+</rss>
