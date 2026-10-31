@@ -3,6 +3,25 @@
     <channel>
         <title>Tide</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Sat, 31 Oct 2026 21:04:13 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tide 1.0.1</h2>
+<ul>
+<li>Smoother tab dragging: the tab follows the pointer one to one and neighbouring tabs slide into place only when you pass their middle.</li>
+<li>Fixed tabs swapping too early, tabs jumping vertically while dragged, and a tab staying visible after being dropped into a collapsed group.</li>
+<li>Esc or releasing outside the window cancels a tab drag and returns the tab to its place.</li>
+<li>Security hardening for dropped file names, git repositories you browse, and files opened externally.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.0.1/Tide-1.0.1.dmg" length="15258441" type="application/octet-stream" sparkle:edSignature="JZqRJZ2aLOqmtNHm4GUvpUY6Q3lCHmGoFi7KWrUtZKa5Sc0AIc9PQeg52mozmsxd6wU+/UcvGV3f6go53iirDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.0.1/Tide2-1.delta" sparkle:deltaFrom="1" length="1185138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BGnJqbobe+BUqWMB2J4fSqaASLmyrIbG5AsDG4NTeHgNRNnr7Z0o1904yEH4swR0sZAUrYNUlm9gWENeFy1JBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Sat, 31 Oct 2026 20:08:53 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
