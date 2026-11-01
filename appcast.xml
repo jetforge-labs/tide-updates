@@ -3,6 +3,31 @@
     <channel>
         <title>Tide</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Sun, 01 Nov 2026 15:24:58 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tide 1.1.0</h2>
+<ul>
+<li>Pin tabs: right-click a tab and choose Pin Tab. Pinned tabs stay at the start of the tab bar, show a pin instead of the close button, and come back pinned after a relaunch.</li>
+<li>Closing the last tab no longer quits Tide: the window stays open with a New Tab button (or press Cmd-T).</li>
+<li>Clicking anywhere in a pane now puts the keyboard on its input, not only the writing area. Selecting text by dragging still works.</li>
+<li>After closing every tab, the next launch starts with one fresh tab instead of bringing back the last one you closed.</li>
+<li>New Settings window (Cmd-,): choose a default folder for new tabs, new splits and the tab Tide opens at launch, or keep the current behaviour.</li>
+<li>Programs like Claude Code can now copy to your clipboard through the terminal (OSC 52), so the "blocked" notice no longer appears. You can turn this off in Settings; reading the clipboard stays blocked.</li>
+<li>Tide now appears in Finder's Open With menu for text, code and folders (it never becomes the default app). Opening a folder starts a new tab there.</li>
+<li>New services "New Tide Tab Here" and "New Tide Window Here" in Finder's context menu and the Services menu. If they are missing, turn them on in System Settings > Keyboard > Keyboard Shortcuts > Services.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.1.0/Tide-1.1.0.dmg" length="15398117" type="application/octet-stream" sparkle:edSignature="q1DDQBtohtPS6DXYxrSQK+fqpGuwk219I8INNJpG9c7YQFkSgLLBXzCMWV5M7CKusbSZH7VseRwRlAwmudTOBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.1.0/Tide4-3.delta" sparkle:deltaFrom="3" length="1621182" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="I39VmruSsqWRUBGTx3g7/Abe8OZiYJoFobc4kFC3jYKV74nAsVaf/5I8w1rFpeY8q9dFxEei9lS6YMWPelmbCw=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.1.0/Tide4-2.delta" sparkle:deltaFrom="2" length="1652786" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PO+oVbRE9zCq0PaTZblQcYVaiq+fJZh2+MwAxnPN4Hf+LwrDx8IhVoXnYeATkt15wFVKHlGrmkze+uqQcyHRCA=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.1.0/Tide4-1.delta" sparkle:deltaFrom="1" length="1763086" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="g5EGk2iGjqoPjwDxx1unf0Pb9Gc859CzDS4w59g8dzVSp4oWX+sTl1oV3x0q1BEt54oMZ5/3UCnyqNxcmPsACQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Sun, 01 Nov 2026 08:46:19 +0100</pubDate>
             <sparkle:version>3</sparkle:version>
