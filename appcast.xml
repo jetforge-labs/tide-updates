@@ -3,6 +3,25 @@
     <channel>
         <title>Tide</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Sun, 01 Nov 2026 21:19:26 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tide 1.1.1</h2>
+<ul>
+<li>Settings (Cmd-,) now has an Appearance section: choose System, Light or Dark, and pick which theme Tide uses for light and for dark. Your own themes appear in the lists, and Ember can now be chosen as the dark theme. Changes apply to every open window right away.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.1.1/Tide-1.1.1.dmg" length="15408399" type="application/octet-stream" sparkle:edSignature="Vqfj8lAqR6qgn1wUyzcdsBoto48n6Z42DDFiDsZ69Mdxn2NQ6JhMKLbcUxukU8FQBfMZAYA7nINqyXc+G5Z4Bw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.1.1/Tide5-4.delta" sparkle:deltaFrom="4" length="1151394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="o2oR5S6LV1B+jUKKgb2b7oAi7hphOiRoLiDFeclbq1ChzQBoaWyQvX0K35p77ow1k1UjGf2x111hXI7COOMXDw=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.1.1/Tide5-3.delta" sparkle:deltaFrom="3" length="1655390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kE633xdJ2+hDLbLmsqo5k0KjDTFEth9xNakyEJZsjcQH2qKKpJqmvTquQ1uYgUKzD+q4Hm3NU4UTeyJLhrurAQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.1.1/Tide5-2.delta" sparkle:deltaFrom="2" length="1747006" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RJVeWabq9YakQLbbicKdvz/dJFjXs+0efjVBXZw1qGLdgEQOrW3oqtDfSEuLJP4vrmfvphTh077Ot1/rOO0EDA=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.1.1/Tide5-1.delta" sparkle:deltaFrom="1" length="1809814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1aGAhjHTqrDwPI6Bm9SJFVW1f3zdUM/AywnmQdRh+0WT41V+JrP29bVB0FpaTk9h1GWbRbUruisPVap4wnYSCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Sun, 01 Nov 2026 15:24:58 +0100</pubDate>
             <sparkle:version>4</sparkle:version>
