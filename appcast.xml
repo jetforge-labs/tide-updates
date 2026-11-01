@@ -3,6 +3,28 @@
     <channel>
         <title>Tide</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Sun, 01 Nov 2026 08:46:19 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tide 1.0.2</h2>
+<ul>
+<li>The explorer now colours folders by their git state, like VS Code: yellow when something inside changed, green when it only has new files, red when it only has deletions.</li>
+<li>Git state works in folders that contain several repositories, at any depth: open a workspace like ~/Developer and every repo inside is tracked.</li>
+<li>Files ignored by each repository (node_modules, build output) are dimmed inside nested repos too.</li>
+<li>Hidden files are shown in the explorer by default.</li>
+<li>Fixed the hover highlight sticking to rows while scrolling the explorer.</li>
+<li>Fixed zsh history being saved inside the app instead of your ~/.zsh_history.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.0.2/Tide-1.0.2.dmg" length="15315602" type="application/octet-stream" sparkle:edSignature="Le1lL2EOy6DLRW7ara+spCj70qOYWIgFKQJY+uovek8LLt699ISMx/S7jZiWmlxRcuyXLSYAy3GOPeekfyypAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.0.2/Tide3-2.delta" sparkle:deltaFrom="2" length="1299050" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FqYexEOWTCe4Idr1Kpd/5phso9z977tKixad3xoMHAnjDTOIaqOyYSdYJ0FdL3zZJdtUEdsJ0famVH9ccttZAg=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.0.2/Tide3-1.delta" sparkle:deltaFrom="1" length="1491690" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="or/NpaX3q19DAfO1DCVxrFAMvWG8rEPfs13AGkKnkztAHYzCl6G/wnkQEi6wbm52MIc5DPd5QbuskZA/jFCMBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Sat, 31 Oct 2026 21:04:13 +0100</pubDate>
             <sparkle:version>2</sparkle:version>
