@@ -3,6 +3,27 @@
     <channel>
         <title>Tide</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Tue, 03 Nov 2026 12:31:16 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tide 1.2.0</h2>
+<ul>
+<li>New Shell Here: right-click a folder in the file explorer and choose New Shell Here to open a new tab in that folder. On a file it opens the file's folder, and on empty space it opens the project root.</li>
+<li>Select several files at once in the file explorer: Cmd-click to add or remove one, Shift-click to select a range. The right-click menu then acts on the whole selection, including Move N Items to Trash, and Cmd-Backspace moves the selection to the Trash.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.2.0/Tide-1.2.0.dmg" length="15415193" type="application/octet-stream" sparkle:edSignature="gW60CFIBG5hiUVNdRZptKDKK131AnzJ9MfnlbdsT6RkmaCa+S+OHIDDuYm1nNNFq/qFMLtpCjfvOL098GVnCDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.2.0/Tide6-5.delta" sparkle:deltaFrom="5" length="1003130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OJalphdnKx20lBdbQs3yl22icIMtKc4LBg45lug1xFJP0he1+EokfxL74PSUKUzxGUq9ht4fPEXNTbK6HhbQBA=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.2.0/Tide6-4.delta" sparkle:deltaFrom="4" length="1231362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GpCuENZ2SRYVxOWkIJ/wFzzkW3S/MSV7b46pjSoF0fsXjZHiVmZbtaINt0nssw/jrfUNWGsnix7eyuBmqwrQDQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.2.0/Tide6-3.delta" sparkle:deltaFrom="3" length="1589674" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eFFGXVGPBv5iv2/imTB8Vj7wjIpM2mv8EL4moloUEzW/hnB1cxapsKikUOdTOZvMlTdFbxtuZhuQlyFXQGtGCw=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.2.0/Tide6-2.delta" sparkle:deltaFrom="2" length="1733510" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dcE+VX8ONqkoLDzq2+jFiVcdfzD/uNSG+11077GEwGLEjUHxpUYbbeuwbSjlObGh0yP0LXi2F255U0HDURi1Dg=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.2.0/Tide6-1.delta" sparkle:deltaFrom="1" length="1860026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/1s/QekabuqtWKgOib5mrZXPEgvtseUKj+JiIUyADLK6oVDTDARWzN4MptE05hWg2sJVJcWYGdQD1q8rGQOhCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Sun, 01 Nov 2026 21:19:26 +0100</pubDate>
             <sparkle:version>5</sparkle:version>
