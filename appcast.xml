@@ -3,6 +3,30 @@
     <channel>
         <title>Tide</title>
         <item>
+            <title>1.3.0</title>
+            <pubDate>Fri, 06 Nov 2026 16:06:48 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tide 1.3.0</h2>
+<ul>
+<li>New editor: files now open in Monaco, the editor inside VS Code. You get multi-cursor editing, find and replace, code folding, bracket matching, line moves and comments, and syntax colors for many more languages. Auto-save, the "changed on disk" banner, Markdown preview and session restore work as before.</li>
+<li>Cmd-click on a path in command output now opens the file at the exact line and column.</li>
+<li>The editor works fully offline, inside the app.</li>
+<li>Full-screen programs such as Claude Code or vim keep the keyboard focus when they start, so you can type right away without clicking the pane.</li>
+<li>Editor panes no longer show a pane close button over the Markdown preview toggle; each file tab has its own close button.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.0/Tide-1.3.0.dmg" length="17224140" type="application/octet-stream" sparkle:edSignature="VYTyeypFWeCDUHIJ+m3ymkLvs5QJ/5Gg411Xr6u6kn+UlXDicsLchrrCNEyh5DQQHEGFHWcN3Vz2QLWMQZf+Cg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.0/Tide7-6.delta" sparkle:deltaFrom="6" length="2662706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8ZpdDjzfX2o6XhOn+0wcA79nZ22bqc3tEfDs2QgqMGwyfQlNxpWjvtU4YQaPw21RoeODOXNFsDNt04QqCkv4Cg=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.0/Tide7-5.delta" sparkle:deltaFrom="5" length="2710954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9gHeOFeG6Fpdw/GspOP5fT+9Dde3dVnZCyrDJqQkcPrlggdBtsPFu92Q83pNIT6GaqqQ5q1issejlf83ad/uBQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.0/Tide7-4.delta" sparkle:deltaFrom="4" length="2758614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0zJlbJuCj/YGb70/XNL4qUT3A4QjAVfvacapd+5Z4EtkMc9WB2QBF272uK7xRddZF26Dl4bw2Mn4kGq7N5nhAA=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.0/Tide7-3.delta" sparkle:deltaFrom="3" length="2957514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gDJIa40KNlGM/Tv7nMXD2RV8PI7cv8JPLGARBo1iMBVmUkKdGESvU+X23QYYWkDgdWDVr3edi2g4IbNu1CyODA=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.0/Tide7-2.delta" sparkle:deltaFrom="2" length="3040526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="d9qxCHmR812jkKQokYOPVeRMp8IlHsAtlBFp3wZdPsFq1GjEQHhtr4/hMC1zt0WM8+u+8TM4AmjdgIBnWrD9BQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Tue, 03 Nov 2026 12:31:16 +0100</pubDate>
             <sparkle:version>6</sparkle:version>
