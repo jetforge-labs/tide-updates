@@ -3,6 +3,27 @@
     <channel>
         <title>Tide</title>
         <item>
+            <title>1.3.1</title>
+            <pubDate>Mon, 09 Nov 2026 18:24:36 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tide 1.3.1</h2>
+<ul>
+<li>Take a photo with your iPhone right from the terminal: right-click a pane and choose Take Photo under your iPhone. The photo is saved and its path is typed into the prompt, so tools like Claude Code pick it up as an image. Scan Documents and Add Sketch work the same way.</li>
+<li>Right-click now opens Tide's menu even inside full-screen programs that use the mouse, such as Claude Code. Hold Option to send the right-click to the program instead.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.1/Tide-1.3.1.dmg" length="17251285" type="application/octet-stream" sparkle:edSignature="H2OYvlLoiy51GruMa5a7/cguWEuwi0AbJFOifubRnNlDIZzpwu57wYuWvS/ClWDe6x4jL1Xe/1N6zXPfEdxYCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.1/Tide8-7.delta" sparkle:deltaFrom="7" length="1338102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5QmywmfjzTsNKmlGtB5bH7eDxO2CF+9Pzsit4Vau0sqvm+NP9FDSa4wEPpDL1YHoy64FyHICGKDfmghp56zHCw=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.1/Tide8-6.delta" sparkle:deltaFrom="6" length="2654470" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bIQsc2Ie/QVMFICjqe5bHzJ4SXzzjwcWkipaaHPXZ4GiG4OHOXe+Iqm+Q1xfAygsDqfH5xN472ti8MQKbL4uCQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.1/Tide8-5.delta" sparkle:deltaFrom="5" length="2757754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XRiY7bWmiLFoa2xP0IwjNh61krKbRDZoVMS0rIcBRRvHARnjhawLn7b/zHRitOwSFjDCiuOiksp1VGGPGKa3BQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.1/Tide8-4.delta" sparkle:deltaFrom="4" length="2780350" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xDgGwVRdx9gCvz07RT1wkYtAkeypc7GPvo95Wm8oL7jzXPKqrZ3jYgB2VY5bLW1k4SaTDuci4eWNI00aOV6FAg=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.1/Tide8-3.delta" sparkle:deltaFrom="3" length="2913298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ymq8b5kw489SrdsRBS9AZ7I7DTQUElMYXOX5SBCXeCEov64WqqL0J6J/B0ZwJGkhpwU1uwkjDAPqUcLUSK8ACw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.0</title>
             <pubDate>Fri, 06 Nov 2026 16:06:48 +0000</pubDate>
             <sparkle:version>7</sparkle:version>
