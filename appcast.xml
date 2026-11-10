@@ -3,6 +3,26 @@
     <channel>
         <title>Tide</title>
         <item>
+            <title>1.3.2</title>
+            <pubDate>Tue, 10 Nov 2026 20:22:57 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Tide 1.3.2</h2>
+<ul>
+<li>Closing a tab now asks for confirmation, so a misclick on its X no longer kills it. The question also tells you how many commands are still running. Tick Don't ask again to skip it, or turn it back on under Settings with Confirm before closing tabs.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.2/Tide-1.3.2.dmg" length="17256312" type="application/octet-stream" sparkle:edSignature="DQnmwCfKI3mpg0/j9HXtce9iJnFd2krTLViaWLa9LC7gpTJkkQbI0ovF9gxzbh3vsEvGyvltAvdzGCtcoC+XBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.2/Tide9-8.delta" sparkle:deltaFrom="8" length="1086166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gIuT0uIqA0vQVLDxMqI1XaGxPBVKTOkdmZIl9KfOLoptLGyTuGajMDbdEx0EBDmetfWXtA+gcxNpvpYj6bc7AA=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.2/Tide9-7.delta" sparkle:deltaFrom="7" length="1398986" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2KD250wOTlKNKZhwZCrp3yzRaMknJ/J47kakvOb5jpCdGt1eMqXu85Eh6AFfRTIRWk6iyDqLHFqUk2us+dxCDA=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.2/Tide9-6.delta" sparkle:deltaFrom="6" length="2787038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GQn8ICWUwx6V0aZemfk9NHCydccvyOtDvBQ7ofwx9bCXnPlOp45pciPDAXjKpM+c0eiBwsZasJ5mlCV22768Cw=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.2/Tide9-5.delta" sparkle:deltaFrom="5" length="2761486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uIc9g5jEn2HqCQUxwfvDPs6CG0awd9Za15mgjEstE4gb4liKhNN78/vw5T90uAx50fd0nB1BlkQKN+D+7nUtDw=="/>
+                <enclosure url="https://github.com/jetforge-labs/tide-updates/releases/download/v1.3.2/Tide9-4.delta" sparkle:deltaFrom="4" length="2846250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CxFDsm5YmKJFj4gv978zJYgJaVVSe+StjnYjBqA8iqG7up8Bw5TijOvk9ZzeKeZ4iyFz6NoOCUb+wMPqqFaVBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.1</title>
             <pubDate>Mon, 09 Nov 2026 18:24:36 +0000</pubDate>
             <sparkle:version>8</sparkle:version>
